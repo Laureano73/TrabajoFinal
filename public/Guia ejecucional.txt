@@ -1,0 +1,33 @@
+Paleta de colores:
+
+bg-dark
+Negro: rgb 0, 0 ,0;
+rgba(0, 0, 0,0.5);
+blanco: #fff;
+celeste: lightseagreen rgb 32, 178, 170
+rgb(54, 158, 232);
+rgb(255, 255, 255);
+rgb(218, 179, 39);
+#24303c;
+#1f53c5;
+235, 202, 37);
+rgb(219, 193, 30);
+
+
+Tipografías:
+familia: roboto
+font-family: 'Roboto', sans-serif;
+font-family: 'calibri';
+
+Tamaños tipograficos:
+font-size: 28px;
+22px
+18px
+15px
+25px
+
+Sitios usados:
+Google Fonts
+Font Awesome 
+Getbootstrap
+
